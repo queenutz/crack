@@ -1,6 +1,4 @@
--- ============================================
--- leaked by https://discord.gg/R6vnkNQNbP
--- LennonHub 
+
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
